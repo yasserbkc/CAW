@@ -23,7 +23,12 @@ h1,h2{
     background-color: yellow;
 }
 
-
+#mon>*:not(h1){
+	border:1px solid red;
+}
+#mon>*:not(h2){
+	background-color:yellow;
+}
 #wed>h2:hover{
 	color:green;
 }
