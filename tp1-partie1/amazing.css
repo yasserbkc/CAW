@@ -11,7 +11,7 @@ h1,h2{
 	border:1px solid green;
 }
 
-.m>span{
+#mon>span{
 	color: pink;
 }
 #mon >div{
